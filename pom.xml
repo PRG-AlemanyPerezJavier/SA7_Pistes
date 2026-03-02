@@ -99,4 +99,5 @@
             </plugins>
         <!--</pluginManagement>-->
     </build>
+    <name>SA7_Pistes</name>
 </project>
